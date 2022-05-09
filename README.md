@@ -25,7 +25,7 @@ GitHub Repository Description:
 * ├── [Final_Project.ipynb](Final_Project.ipynb) -> The Final Notebook where the project lies
 * ├── [data/](data/) -> Contains the Zip files for the smaller datasets and the Drive Link for the actual dataset
 * ├── [doc/](doc/) -> Comtains the PDF of the presentation and Python code for the Notebook where the project runs
-* ├── [output]/(output/) -> Contains the graphs and the csv files generated post computation
+* ├── [output/](output/) -> Contains the graphs and the csv files generated post computation
 * └── [README.md](README.md) -> Documentation of the project
 
 
