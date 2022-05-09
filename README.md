@@ -1,8 +1,7 @@
-# Practical Deep Learning Final Project: 
+# Practical Deep Learning Final Project: Applications of Deep Learning in Healthcare: Breast Cancer Classification using Deep Learning models
 
 Term: Spring 2022
 
-+ Projec title: 
 + Team members
 	+ Rishav Agarwal (ra3141)
 	+ Rachana Dereddy (rd2998)
@@ -24,9 +23,7 @@ where u is the patient ID (10253idx5), 
 GitHub Repository Description:
 
 ```
-proj/
-├── lib/
-├── data/
+├── [data/](/data) -> Contains the 
 ├── doc/
 ├── figs/
 └── output/
