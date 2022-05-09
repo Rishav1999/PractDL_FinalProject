@@ -22,12 +22,11 @@ where u is the patient ID (10253idx5), 
 
 GitHub Repository Description:
 
-```
 ├── (data/)[data] -> Contains the 
 ├── doc/
 ├── figs/
 └── output/
-```
+
 
 Please see each subfolder for a README file.
 
