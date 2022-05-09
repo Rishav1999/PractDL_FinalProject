@@ -22,7 +22,7 @@ where u is the patient ID (10253idx5), 
 
 GitHub Repository Description:
 
-### (data/)[data/]
+### (data/)[data/README.md]
 ├── doc/
 ├── figs/
 └── output/
