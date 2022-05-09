@@ -1,5 +1,6 @@
-# Project: 
+# Project: Applications of Deep Learning in Healthcare: Breast Cancer Classification using Deep Learning models
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
-
+* The data directory contains data used in the analysis. This is treated as read only. 
+* The drive link of the pre-processed dataset is: https://drive.google.com/drive/folders/14wTuwCwY3Q0W6CijExC2vJEAllhruXS1?usp=sharing
+* The actual dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
