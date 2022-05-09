@@ -35,3 +35,4 @@ Please see each subfolder for a README file.
 RESULTS
 * For both GPU P100 and V100, we can see from the table provided, VGG16 performs the worst with an accuracy of 50%, while other models go upto 80%.
 * The Transfer Learning model with ResNet50 performs the best with an accuracy of 82.78% in P100 and 82.40% for V100 and is the suggested model for these classification.
+* The output can be found [here](output/)
